@@ -5,6 +5,9 @@ import mainLogo from "./img/logo/logo3.png";
 import mainAbout from "./img/about/profile.png";
 import mainIcon1 from "./img/icon/d1.png";
 import mainIcon2 from "./img/icon/d2.png";
+/*
+Data
+*/
 
 /* const price = 23;
 const data=() =>{
